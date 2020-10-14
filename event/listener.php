@@ -48,7 +48,7 @@ class listener implements EventSubscriberInterface
 			'core.adm_page_header'	=> 'do_dark',
 		);
 	}
-	
+
 	public function do_dark($event)
 	{
 		$idDark = $this->request->variable('darkmode', false, true, \phpbb\request\request_interface::COOKIE);
@@ -64,11 +64,11 @@ class listener implements EventSubscriberInterface
 			$styleDoDark = "";
 			$class = "lightmode";
 		}
-		
+
 		$this->template->append_var('BODY_CLASS', $class);
 		$this->template->append_var('STYLE_DO_DARK', $styleDoDark);
 		$this->template->append_var('STYLE_DO_LIGHT', $styleDoLight);
-    
+
 		$this->user->add_lang_ext('aurelienazerty/darkmode', 'dark_mode');
 		$this->template->assign_var('DO_DARK_MESSAGE'	, $this->user->lang['DO_DARK_MODE']);
 		$this->template->assign_var('DO_LIGHT_MESSAGE'	, $this->user->lang['DO_LIGHT_MODE']);

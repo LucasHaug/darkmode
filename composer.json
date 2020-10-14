@@ -5,7 +5,12 @@
     "homepage": "https://www.team-azerty.com",
     "version": "1.0.1",
     "time": "2020-09-01",
-		"keywords": ["phpbb", "extension", "style", "Dark Mode"],
+    "keywords": [
+        "phpbb",
+        "extension",
+        "style",
+        "Dark Mode"
+    ],
     "license": "GPL-2.0-only",
     "authors": [
         {
@@ -15,18 +20,20 @@
         }
     ],
     "require": {
-        "php": ">=5.4.7"
+        "php": ">=5.4.7",
+        "phpbb/phpbb": ">=3.1.0",
+        "composer/installers": "~1.0.0"
     },
-   "extra": {
+    "extra": {
         "display-name": "Dark Mode",
         "soft-require": {
             "phpbb/phpbb": ">=3.1.0"
         },
         "version-check": {
-        	"ssl": "true",
-					"host": "phpbb.team-azerty.com",
-					"directory": "/",
-		      "filename": "darkmode.json"
-				}
+            "host": "www.phpbb.com",
+            "directory": "/customise/db/extension/darkmode",
+            "filename": "version_check",
+            "ssl": true
+        }
     }
 }
