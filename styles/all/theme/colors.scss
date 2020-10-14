@@ -51,7 +51,7 @@ $screen-md-max: ($screen-lg-min - 1);
 
 // START DARK
 
-/* Color vars */
+// Color vars
 $white-1:     lighten( $white, 2% );
 $white-2:     lighten( $white, 5% );
 $white-3:     lighten( $white, 7.5% );
@@ -71,7 +71,7 @@ $post-btns-alt: $white-2;
 
 $tooltip-bg:  darken( $white, 12.5% );
 
-/* Rules */
+// Rules
 #page-header a:hover, #page-header a:focus {
   color: inherit;
   text-shadow: 0 0 7.5px rgba(white, 0.5);             }
@@ -552,7 +552,7 @@ fieldset.polls dd div {
   border-color: $border-c;
 }
 .panel-container .panel li.header dd, .panel-container .panel li.header dt {
-  /* color: $text-header; */
+  // color: $text-header;
 }
 ul.cplist {
   border-color: $border-c;
@@ -595,12 +595,12 @@ fieldset.polls dl {
     border-left-color: $tabs-active;
   }
 }
-/*
-input:-webkit-autofill {
-  -webkit-box-shadow: 0 0 0px 1000px $input inset;
-  -webkit-text-fill-color: $text !important;
-}
-*/
+
+// input:-webkit-autofill {
+//   -webkit-box-shadow: 0 0 0px 1000px $input inset;
+//   -webkit-text-fill-color: $text !important;
+// }
+
 input[type="text"], .inputbox {
   border-color: $border-c-d;
   background: $input;
@@ -892,7 +892,7 @@ dd.profile-warnings {
   #navigation a, .rtl #navigation a { background: $white-2; }
 }
 .current {
-  /* empty */
+  // empty
 }
 .pmlist li.pm_message_reported_colour, .pm_message_reported_colour {
   border-left-color: $accent-c;
@@ -936,7 +936,7 @@ dd.profile-warnings {
   border-top-color: $border-c;
 }
 .dropdown-extended ul li:hover {
-  /* background: $white-1; */
+  // background: $white-1;
 }
 .dropdown-extended .header, .dropdown-extended .footer {
   background: $white-1;
@@ -957,7 +957,7 @@ dl.icon {
     background: $white-2;
     color: $text;
   }
-  /* Unread */
+  // Unread
   &.forum_unread:before, &.forum_unread_subforum:before,
   &.forum_unread_locked:before, &.sticky_unread:before,
   &.sticky_unread_mine:before, &.sticky_unread_locked:before,
@@ -974,7 +974,7 @@ dl.icon {
   &.topic_unread_hot:before, &.topic_unread_hot_mine:before {
     color: $accent-c;
   }
-  /* Announcements */
+  // Announcements
   &.announce_read:before, &.announce_read_locked:before {
     color: $accent-c-l;
   }
@@ -1181,7 +1181,7 @@ dl.icon {
     }
   }
 }
-/* 13.0 Extensions */
+// 13.0 Extensions
 #eles #phpbb_announcement {
   background-color: $accent-c;
   color: $text-header;
@@ -1295,7 +1295,7 @@ dl.icon {
   }
 }
 
-/* 14.0 Responsive Design */
+// 14.0 Responsive Design
 @media (max-width: $screen-sm) {
   #page-sidebar {
     border-top-color: $border-c;
@@ -1311,5 +1311,5 @@ dl.icon {
     }
   }
 }
-/* 15.0 Special Effects */
+// 15.0 Special Effects
 .ripple { background: $white !important; }
