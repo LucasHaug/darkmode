@@ -551,9 +551,9 @@ fieldset.polls dd div {
 .section-ucp .panel, .section-mcp .panel {
   border-color: $border-c;
 }
-.panel-container .panel li.header dd, .panel-container .panel li.header dt {
+// .panel-container .panel li.header dd, .panel-container .panel li.header dt {
   // color: $text-header;
-}
+// }
 ul.cplist {
   border-color: $border-c;
 }
@@ -891,9 +891,9 @@ dd.profile-warnings {
 @media (max-width: $screen-md-min) {
   #navigation a, .rtl #navigation a { background: $white-2; }
 }
-.current {
+// .current {
   // empty
-}
+// }
 .pmlist li.pm_message_reported_colour, .pm_message_reported_colour {
   border-left-color: $accent-c;
   border-right-color: $accent-c;
@@ -935,9 +935,9 @@ dd.profile-warnings {
 .dropdown-extended ul li {
   border-top-color: $border-c;
 }
-.dropdown-extended ul li:hover {
+// .dropdown-extended ul li:hover {
   // background: $white-1;
-}
+// }
 .dropdown-extended .header, .dropdown-extended .footer {
   background: $white-1;
   border-color: $border-c;
