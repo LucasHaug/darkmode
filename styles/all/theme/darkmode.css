@@ -10,70 +10,70 @@ body.darkmode {
   background: transparent !important;
 }
 .darkmode #topicreview {
-  border-color: #61737c !important;
-  background: #303d43 !important;
+  border-color: #292929 !important;
+  background: #151515 !important;
 }
 .darkmode #topicreview .post {
-  border-color: #47555b;
+  border-color: #0b0b0b;
 }
 .darkmode #topicreview .post p.author {
-  border-color: #414e54;
+  border-color: #050505;
 }
 .darkmode #tabs .activetab > a, .darkmode #tabs .activetab > a:hover, .darkmode #minitabs .activetab > a, .darkmode #minitabs .activetab > a:hover, .darkmode #navigation #active-subsection a {
-  color: #3B4A52 !important;
+  color: #222222 !important;
 }
 .darkmode .dropdown-extended .header, .darkmode .dropdown-extended .footer {
-  background: #4b5e68 !important;
-  border-color: #586970 !important;
+  background: #353535 !important;
+  border-color: #1e1e1e !important;
 }
 .darkmode div.notification_list .dropdown-contents {
-  border-color: #61737c;
+  border-color: #292929;
 }
 .darkmode .dropdown .dropdown-contents, .darkmode .dropdown-up .dropdown-contents, .darkmode #attach-panel, .darkmode .stat-block:not(.auth-box), .darkmode .forumbg, .darkmode .forabg, .darkmode #options-panel, .darkmode #poll-panel {
-  background: #465761 !important;
+  background: #2f2f2f !important;
 }
 .darkmode .stat-block.auth-box form {
-  background: #465761 !important;
+  background: #2f2f2f !important;
 }
 .darkmode .dropdown .pointer-inner {
-  border-color: #465761 transparent !important;
+  border-color: #2f2f2f transparent !important;
 }
 .darkmode .tooltip-inner {
-  color: #F1F1F1;
-  background: #20292d;
+  color: #444444;
+  background: #020202;
 }
 .darkmode .tooltip.top .tooltip-arrow {
-  border-top-color: #20292d;
+  border-top-color: #020202;
 }
 .darkmode .tooltip.top-left .tooltip-arrow {
-  border-top-color: #20292d;
+  border-top-color: #020202;
 }
 .darkmode .tooltip.top-right .tooltip-arrow {
-  border-top-color: #20292d;
+  border-top-color: #020202;
 }
 .darkmode .tooltip.right .tooltip-arrow {
-  border-right-color: #20292d;
+  border-right-color: #020202;
 }
 .darkmode .tooltip.left .tooltip-arrow {
-  border-left-color: #20292d;
+  border-left-color: #020202;
 }
 .darkmode .tooltip.bottom .tooltip-arrow {
-  border-bottom-color: #20292d;
+  border-bottom-color: #020202;
 }
 .darkmode .tooltip.bottom-left .tooltip-arrow {
-  border-bottom-color: #20292d;
+  border-bottom-color: #020202;
 }
 .darkmode .tooltip.bottom-right .tooltip-arrow {
-  border-bottom-color: #20292d;
+  border-bottom-color: #020202;
 }
 .darkmode .tabs-mini .nav > li:not(.active) > a:hover {
-  background: #3f4f58 !important;
+  background: #272727 !important;
 }
 .darkmode #navbar-main.topbar .inner a.header-avatar:hover > span, .darkmode #navbar-main.topbar .inner a.header-avatar:focus > span {
-  color: #F1F1F1 !important;
+  color: #444444 !important;
 }
 .darkmode #back2topMain {
-  color: #F1F1F1 !important;
+  color: #444444 !important;
 }
 .darkmode #search-box.search-header {
   background: white !important;
@@ -93,1015 +93,1015 @@ body.darkmode {
   color: #444 !important;
 }
 .darkmode .navbar.bottom {
-  border-top-color: #61737c !important;
+  border-top-color: #292929 !important;
 }
 .darkmode li.header {
   box-shadow: none !important;
 }
 .darkmode li.row dl.icon:before {
-  background: #4b5e68 !important;
+  background: #353535 !important;
 }
 .darkmode #darken {
   background: black !important;
 }
 .darkmode html {
-  background: #262f34;
+  background: #090909;
 }
 .darkmode html.js #preloader {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode body {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode ::selection {
-  background: rgba(17, 180, 165, 0.85) !important;
-  color: #3B4A52 !important;
+  background: rgba(222, 193, 7, 0.85) !important;
+  color: #222222 !important;
 }
 .darkmode ::-moz-selection {
-  background: rgba(17, 180, 165, 0.85) !important;
-  color: #3B4A52 !important;
+  background: rgba(222, 193, 7, 0.85) !important;
+  color: #222222 !important;
 }
 .darkmode h2.memberlist-title {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode hr {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #wrap {
-  background: #3f4f58;
+  background: #272727;
 }
 .darkmode #page-header {
-  background: #11B4A5;
-  background: linear-gradient(110deg, #11B4A5 0%, #DD4C5A 100%);
-  color: #F1F1F1;
+  background: #dec107;
+  background: linear-gradient(110deg, #dec107 0%, #dec107 100%);
+  color: #444444;
 }
 .darkmode #page-header a {
   color: inherit;
 }
 .darkmode #page-body-wrapper.leftside, .darkmode #page-body-wrapper.rightside {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode #page-sidebar {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode #page-sidebar .widget-title::before {
-  background: #13cbba;
+  background: #f7d608;
 }
 .darkmode #page-sidebar .widget-title::after {
-  background: #526269;
+  background: #181818;
 }
 .darkmode #page-footer {
-  background: #303d43;
-  color: #6f9eb4;
+  background: #151515;
+  color: #a0a0a0;
 }
 .darkmode #page-footer a {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode #page-footer a:hover, .darkmode #page-footer a:focus {
-  color: #13cbba;
+  color: #f7d608;
 }
 .darkmode #page-footer .dropdown a:hover, .darkmode #page-footer .dropdown a:focus {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .top-block {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode .bottom-block {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #navbar-main.fixed {
-  background: rgba(13, 133, 122, 0.975);
+  background: rgba(173, 150, 5, 0.975);
 }
 .darkmode .topbar .inner {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode .topbar .inner a.header-avatar:hover > span, .darkmode .topbar .inner a.header-avatar:focus > span {
-  color: #3B4A52 !important;
+  color: #222222 !important;
   text-shadow: none;
 }
 .darkmode .topbar .inner > ul > li > a:hover, .darkmode .topbar .inner > ul > li > a:focus {
-  color: #3B4A52;
+  color: #222222;
   text-shadow: none;
 }
 .darkmode .topbar .dropdown a:hover {
   text-shadow: none !important;
-  color: #11B4A5 !important;
+  color: #dec107 !important;
 }
 .darkmode .endbar {
-  background: #262f34;
-  color: #49788d;
+  background: #090909;
+  color: #7a7a7a;
 }
 .darkmode .endbar a {
   color: inherit !important;
 }
 .darkmode .navbar.top .inner {
-  background: #3f4f58;
-  border-color: #526269;
-  color: #A1C0CE;
+  background: #272727;
+  border-color: #181818;
+  color: #c6c6c6;
 }
 .darkmode .navbar.bottom .inner.container {
-  background: #3f4f58;
-  border-color: #526269;
-  color: #A1C0CE;
+  background: #272727;
+  border-color: #181818;
+  color: #c6c6c6;
 }
 .darkmode .forabg, .darkmode .forumbg, .darkmode #options-panel, .darkmode #attach-panel, .darkmode #poll-panel {
-  border-color: #526269;
-  background: #3B4A52;
+  border-color: #181818;
+  background: #222222;
 }
 .darkmode #confirm > .panel, .darkmode #message.panel {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode .post {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 .darkmode .post .back2top a.top {
-  color: #526269;
+  color: #181818;
 }
 .darkmode #postingbox {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode #preview.post {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode ul.social-links li a {
-  box-shadow: inset 0 0 0 1px rgba(19, 203, 186, 0.05);
-  color: #6f9eb4;
+  box-shadow: inset 0 0 0 1px rgba(247, 214, 8, 0.05);
+  color: #a0a0a0;
 }
 .darkmode ul.social-links li a:hover, .darkmode ul.social-links li a:focus {
-  box-shadow: inset 0 0 0 1px rgba(19, 203, 186, 0.5);
-  color: #13cbba;
+  box-shadow: inset 0 0 0 1px rgba(247, 214, 8, 0.5);
+  color: #f7d608;
 }
 .darkmode .dropdown li.separator {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .darkmode .breadcrumbs .crumb:before {
-  color: rgba(161, 192, 206, 0.25);
+  color: rgba(198, 198, 198, 0.25);
 }
 .bottom .darkmode .breadcrumbs .crumb:before {
-  color: rgba(161, 192, 206, 0.25);
+  color: rgba(198, 198, 198, 0.25);
 }
 .darkmode .breadcrumbs .crumb a:hover, .darkmode .breadcrumbs .crumb a:focus {
-  color: #13cbba;
+  color: #f7d608;
 }
 .navbar.top .darkmode .breadcrumbs .crumb a:hover, .navbar.top .darkmode .breadcrumbs .crumb a:focus {
-  box-shadow: 0 6px 0 0 #13cbba;
+  box-shadow: 0 6px 0 0 #f7d608;
 }
 .darkmode .navbar.top .breadcrumbs .crumb:last-child a {
-  box-shadow: 0 6px 0 0 #13cbba;
+  box-shadow: 0 6px 0 0 #f7d608;
 }
 .darkmode table.table1 thead th {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode table.table1 tbody tr {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 .darkmode table.table1 tbody tr:hover, .darkmode table.table1 tbody tr.hover {
-  background: #3f4f58;
-  color: #CBCBCB;
+  background: #272727;
+  color: #ececec;
 }
 .darkmode table.table1 tbody th {
-  color: #A1C0CE;
-  background: #3B4A52;
+  color: #c6c6c6;
+  background: #222222;
 }
 .darkmode table.info tbody th {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode .action-bar.top {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode .action-bar.bottom {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode .pagination li a, .darkmode .pagination li span {
-  background: #11B4A5;
-  color: #F1F1F1;
+  background: #dec107;
+  color: #444444;
 }
 .darkmode .pagination li a:hover {
-  background: #13cbba;
+  background: #f7d608;
 }
 .darkmode .pagination li.ellipsis span {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode .phpbb_alert {
-  background: #3B4A52;
-  border-color: #61737c;
+  background: #222222;
+  border-color: #292929;
 }
 .darkmode .phpbb_alert .alert_close {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode .phpbb_alert .alert_close:hover {
   color: darkred;
 }
 .darkmode p.post-notice {
-  border-left-color: #DD4C5A;
+  border-left-color: #dec107;
 }
 .darkmode .stats-blocks .col-block + .col-block {
-  border-left-color: #586970;
+  border-left-color: #1e1e1e;
 }
 .darkmode .stat-block:not(.auth-box), .darkmode .stat-block.auth-box form {
-  background: #3B4A52;
-  border-color: #526269;
+  background: #222222;
+  border-color: #181818;
 }
 .darkmode .notification_list p.notification-time {
-  color: #0f9d90;
+  color: #c5ac06;
 }
 .darkmode .profile-inner .col {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode .profile-inner .panel.bottom {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode a {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode a:hover, .darkmode a:focus, .darkmode a:active {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .postlink {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .postlink:hover {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 li.row:hover .darkmode a.feed-icon-forum:hover {
-  background: #11B4A5;
+  background: #dec107;
 }
 .darkmode ul.forums .time, .darkmode ul.topics .time {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode ul.topiclist li.row dt a.subforum.read:before, .darkmode ul.topiclist li.row dt a.subforum.unread:before {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode ul.topiclist li.row dt a.subforum.unread:before {
-  border-color: #11B4A5;
+  border-color: #dec107;
 }
 .darkmode li.row {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .darkmode li.row:hover {
-  background: #3f4f58 !important;
+  background: #272727 !important;
 }
 .darkmode li.row strong.subforums-title {
-  color: #CBCBCB;
+  color: #ececec;
 }
 .darkmode li.row .subforums-wrapper {
-  border-left-color: #526269;
+  border-left-color: #181818;
 }
 .darkmode li.header {
-  background: #11B4A5;
-  color: #F1F1F1;
+  background: #dec107;
+  color: #444444;
 }
 .darkmode dl.icon dt .list-inner .responsive-hide {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .postbody h3 a {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode .postbody h3 a:hover, .darkmode .postbody h3 a:focus {
-  color: #A1C0CE;
-  border-bottom-color: #526269;
+  color: #c6c6c6;
+  border-bottom-color: #181818;
 }
 .darkmode .has-profile .postprofile:before, .darkmode .has-profile .postbody:after {
-  border-left-color: #586970;
+  border-left-color: #1e1e1e;
 }
 .darkmode #topicreview {
-  border-color: #526269;
-  background: #3f4f58;
+  border-color: #181818;
+  background: #272727;
 }
 .darkmode .posthilit {
-  background: #4b5e68;
-  color: #DD4C5A;
+  background: #353535;
+  color: #dec107;
 }
 .darkmode p.author {
-  border-bottom-color: #586970;
+  border-bottom-color: #1e1e1e;
 }
 .darkmode .signature {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .postbody .darkmode .signature {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .codebox {
-  border-color: #526269;
-  background: #465761;
+  border-color: #181818;
+  background: #2f2f2f;
 }
 .darkmode .codebox code {
-  color: #6f9eb4;
-  border-top-color: #526269;
+  color: #a0a0a0;
+  border-top-color: #181818;
 }
 .darkmode .attachbox {
-  border-color: #526269;
-  background: #465761;
+  border-color: #181818;
+  background: #2f2f2f;
 }
 .darkmode dl.file dd {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode dl.thumbnail img {
-  border-color: #61737c;
-  background: #3B4A52;
+  border-color: #292929;
+  background: #222222;
 }
 .darkmode .attachbox dl.thumbnail dd {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode dl.thumbnail dt a:hover img {
-  border-color: #11B4A5;
+  border-color: #dec107;
 }
 .darkmode fieldset.polls dd div {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode .vote-submitted {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .postprofile .avatar.auto-avatar .img {
-  background: #13cbba;
+  background: #f7d608;
   color: white;
 }
 .darkmode .profile-meta {
   color: transparent;
 }
 .post:hover .darkmode .profile-meta {
-  color: rgba(161, 192, 206, 0.5);
+  color: rgba(198, 198, 198, 0.5);
 }
 .darkmode .postbody .content::-webkit-scrollbar, .darkmode #topicreview::-webkit-scrollbar, .darkmode #post_details::-webkit-scrollbar, .darkmode .codebox code::-webkit-scrollbar, .darkmode .attachbox dd::-webkit-scrollbar, .darkmode .attach-image::-webkit-scrollbar, .darkmode .dropdown ul::-webkit-scrollbar, .darkmode #mchat-messages::-webkit-scrollbar, .darkmode #shoutbox_scroll::-webkit-scrollbar {
   background: transparent;
 }
 .darkmode .postbody .content::-webkit-scrollbar-thumb, .darkmode #topicreview::-webkit-scrollbar-thumb, .darkmode #post_details::-webkit-scrollbar-thumb, .darkmode .dropdown ul::-webkit-scrollbar-thumb, .darkmode .codebox code::-webkit-scrollbar-thumb, .darkmode .attachbox dd::-webkit-scrollbar-thumb, .darkmode .attach-image::-webkit-scrollbar-thumb, .darkmode #mchat-messages::-webkit-scrollbar-thumb, .darkmode #shoutbox_scroll::-webkit-scrollbar-thumb {
-  background: rgba(97, 115, 124, 0.6);
+  background: rgba(41, 41, 41, 0.6);
 }
 .darkmode #back2topMain {
-  background: #11B4A5;
-  color: #3B4A52;
+  background: #dec107;
+  color: #222222;
 }
 .darkmode #back2topMain.active:hover {
-  background: #13cbba;
+  background: #f7d608;
 }
 .darkmode .contact-icons a {
-  border-bottom-color: #586970;
-  border-right-color: #586970;
+  border-bottom-color: #1e1e1e;
+  border-right-color: #1e1e1e;
 }
 .darkmode .post-buttons a.icon-button {
   background: transparent;
 }
 .darkmode .post-buttons a.icon-button:hover, .darkmode .post-buttons a.icon-button:focus {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode .post-buttons a.icon-button:active {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode .section-ucp .panel, .darkmode .section-mcp .panel {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode ul.cplist {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode .panel-container table.table1 thead {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 .darkmode fieldset.polls dl {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .darkmode #tabs .tab > a:hover {
-  background: #4b5e68;
+  background: #353535;
 }
 .darkmode #tabs .activetab > a, .darkmode #tabs .activetab > a:hover {
   background: white;
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode #minitabs .tab > a:hover {
-  background: #4b5e68;
+  background: #353535;
 }
 .darkmode #minitabs .activetab > a, .darkmode #minitabs .activetab > a:hover {
   background: white;
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode #navigation a {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode #navigation a:hover {
-  background: #4b5e68;
+  background: #353535;
 }
 .darkmode #navigation a:hover:after {
-  border-left-color: #4b5e68;
+  border-left-color: #353535;
 }
 .darkmode #navigation #active-subsection a {
   background: white;
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode #navigation #active-subsection a:after {
   border-left-color: white;
 }
 .darkmode input[type="text"], .darkmode .inputbox, .darkmode #eles input#text_shoutbox {
-  border-color: #526269;
-  background: #37454c;
+  border-color: #181818;
+  background: #1d1d1d;
 }
 .darkmode input[type="text"]:hover, .darkmode .inputbox:hover, .darkmode #eles input#text_shoutbox:hover {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode input[type="checkbox"]:before, .darkmode input[type="radio"]:before, .darkmode .input-view:before {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode input[type="radio"]:before, .darkmode .input-view.type-radio:before {
-  color: #37454c;
-  background: #37454c;
+  color: #1d1d1d;
+  background: #1d1d1d;
 }
 .darkmode input[type="radio"]:checked::before, .darkmode .input-view.type-radio:checked::before, .darkmode input[type="radio"]:checked + .input-view::before, .darkmode .input-view.type-radio:checked + .input-view::before {
-  background: #11B4A5;
+  background: #dec107;
 }
 .darkmode input[type="radio"]:checked:hover::before, .darkmode label:hover input[type="radio"]:checked + .input-view::before, .darkmode .input-view.type-radio:checked:hover::before, .darkmode label:hover .input-view.type-radio:before:checked, .darkmode input[type="radio"]:checked + .input-view:hover::before, .darkmode .input-view.type-radio:checked + .input-view:hover::before {
-  background: #13cbba;
+  background: #f7d608;
 }
 .darkmode input[type="radio"]:hover::before, .darkmode .input-view.type-radio:hover::before, .darkmode label:hover .input-view.type-radio:before {
-  background: #13cbba;
-  border-color: #11B4A5;
+  background: #f7d608;
+  border-color: #dec107;
 }
 .darkmode input[type="checkbox"]:checked::before, .darkmode .input-view.type-checkbox:checked::before, .darkmode input[type="checkbox"]:checked + .input-view::before, .darkmode .input-view.type-checkbox:checked + .input-view::before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode input[type="checkbox"]:hover::before, .darkmode .input-view.type-checkbox:hover::before, .darkmode label:hover .input-view.type-checkbox::before {
-  color: #13cbba;
-  border-color: #13cbba;
+  color: #f7d608;
+  border-color: #f7d608;
 }
 .darkmode input[type="checkbox"]:checked:focus::before, .darkmode label:hover input[type="checkbox"]:checked + .input-view::before, .darkmode .input-view.type-checkbox:checked:focus::before, .darkmode input[type="checkbox"]:checked + .input-view:focus::before, .darkmode .input-view.type-checkbox:checked + .input-view:focus::before {
-  color: #526269;
-  border-color: #526269;
+  color: #181818;
+  border-color: #181818;
 }
 .darkmode input[type="checkbox"]:focus::before, .darkmode .input-view.type-checkbox:focus::before {
   color: transparent;
 }
 .darkmode input[type="checkbox"]:active::before, .darkmode .input-view.type-checkbox:active::before {
-  color: #526269 !important;
-  border-color: #526269;
+  color: #181818 !important;
+  border-color: #181818;
 }
 .darkmode label[for]:hover {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode select {
-  border-color: #526269;
-  background: #37454c;
+  border-color: #181818;
+  background: #1d1d1d;
 }
 .darkmode select:hover, .darkmode select:focus {
-  color: #A1C0CE;
-  border-color: #526269;
+  color: #c6c6c6;
+  border-color: #181818;
 }
 .darkmode select:hover {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode label[for^="icon-"] input:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode label[for^="icon-"] input:checked::before, .darkmode label[for^="icon-"] input:hover::before, .darkmode label[for^="icon-"] input:checked:hover::before {
-  background: #37454c;
+  background: #1d1d1d;
 }
 .darkmode label[for^="icon-"]:hover input:before {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode fieldset.display-options {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode fieldset.display-options select {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode fieldset.display-options select:hover, .darkmode fieldset.display-options select:focus {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode fieldset.display-options label.go:hover {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode #format-buttons input[type="button"]:hover, .darkmode #format-buttons input[type="button"]:focus {
-  background: #303d43;
-  color: #11B4A5;
+  background: #151515;
+  color: #dec107;
 }
 .darkmode .inputbox:hover, .darkmode #eles input#text_shoutbox:hover, .darkmode .inputbox:focus, .darkmode #eles input#text_shoutbox:focus {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode textarea.inputbox {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode textarea.inputbox:hover, .darkmode textarea.inputbox:focus {
-  background: #37454c;
+  background: #1d1d1d;
 }
 .darkmode #qr_postform {
-  background: #3f4f58;
-  border-bottom-color: #526269;
+  background: #272727;
+  border-bottom-color: #181818;
 }
 .darkmode #qr_postform textarea.inputbox {
-  background: #37454c;
+  background: #1d1d1d;
 }
 .darkmode #qr_postform textarea.inputbox:hover {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode .button, .darkmode a.button, .darkmode input.button1 {
-  background-color: #11B4A5;
-  color: #F1F1F1;
+  background-color: #dec107;
+  color: #444444;
 }
 .darkmode .button:hover, .darkmode a.button:hover, .darkmode input.button1:hover {
-  background-color: #13cbba;
+  background-color: #f7d608;
 }
 .darkmode .button:focus, .darkmode a.button:focus, .darkmode input.button1:focus, .darkmode .button:active, .darkmode a.button:active, .darkmode input.button1:active {
-  background: #0f9d90;
+  background: #c5ac06;
 }
 .darkmode a.button2, .darkmode input.button2 {
-  background: #DD4C5A;
+  background: #dec107;
 }
 .darkmode a.button2:hover, .darkmode input.button2:hover {
-  background: #e1616e;
+  background: #f7d608;
 }
 .darkmode a.button2:focus, .darkmode input.button2:focus, .darkmode a.button2:active, .darkmode input.button2:active {
-  background: #d93746;
+  background: #c5ac06;
 }
 .darkmode input.disabled {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .dropdown-select:after {
-  border-left-color: rgba(59, 74, 82, 0.3);
+  border-left-color: rgba(34, 34, 34, 0.3);
 }
 .darkmode .search-box .button {
-  background: #37454c;
-  color: #A1C0CE;
-  border-color: #526269;
+  background: #1d1d1d;
+  color: #c6c6c6;
+  border-color: #181818;
 }
 .darkmode .search-box .button:hover {
-  background: #37454c;
+  background: #1d1d1d;
 }
 .darkmode .search-header {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode .search-header .inputbox, .darkmode .search-header #eles input#text_shoutbox, .darkmode #eles .search-header input#text_shoutbox {
-  color: #A1C0CE;
+  color: #c6c6c6;
 }
 .darkmode .search-header a.button, .darkmode .search-header button.button {
-  color: #6f9eb4 !important;
+  color: #a0a0a0 !important;
 }
 .darkmode .search-header a.button:hover, .darkmode .search-header button.button:hover, .darkmode .search-header a.button:active, .darkmode .search-header button.button:active, .darkmode .search-header a.button:focus, .darkmode .search-header button.button:focus {
-  color: #A1C0CE !important;
+  color: #c6c6c6 !important;
 }
 .darkmode .post:target h3 a {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .bg1 {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode .bg2 {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode .bg3 {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode table.zebra-list tr:nth-child(odd) td, .darkmode ul.zebra-list li:nth-child(odd) {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode table.zebra-list tr:nth-child(even) td, .darkmode ul.zebra-list li:nth-child(even) {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode .ucprowbg {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode .fieldsbg {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode .sep {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .pagination li.active span {
-  background: #13cbba;
+  background: #f7d608;
 }
 .darkmode th a {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode th a:hover {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode li.header dt a, .darkmode li.header dd a {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode li.header dt a:hover, .darkmode li.header dd a:hover, .darkmode li.header dt a:focus, .darkmode li.header dd a:focus {
-  color: #F1F1F1;
+  color: #444444;
 }
 .darkmode .notice {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode blockquote {
-  background: #3f4f58;
-  border-color: #526269;
+  background: #272727;
+  border-color: #181818;
 }
 .darkmode blockquote:before {
-  color: rgba(111, 158, 180, 0.15);
+  color: rgba(160, 160, 160, 0.15);
 }
 .darkmode blockquote cite {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode blockquote blockquote {
-  background: #465761;
+  background: #2f2f2f;
 }
 .darkmode blockquote blockquote blockquote {
-  background: #4b5e68;
+  background: #353535;
 }
 .darkmode .syntaxbg {
-  color: #3B4A52;
+  color: #222222;
 }
 .darkmode .syntaxhtml {
-  color: #CBCBCB;
+  color: #ececec;
 }
 .darkmode .pm-message .attachbox {
-  background: #3f4f58;
+  background: #272727;
 }
 .darkmode .attachbox p.stats {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .attach-image img {
-  border-color: #61737c;
+  border-color: #292929;
 }
 .darkmode .pollbar1 {
-  background: #b92332;
+  background: #948105;
 }
 .darkmode .pollbar2 {
-  background: #cf2737;
+  background: #ad9605;
 }
 .darkmode .pollbar3 {
-  background: #d93746;
+  background: #c5ac06;
 }
 .darkmode .pollbar4 {
-  background: #dd4c5a;
+  background: #dec107;
 }
 .darkmode .pollbar5 {
-  background: #e1616e;
+  background: #f7d608;
 }
 .darkmode .pm .postprofile {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode dd.profile-warnings {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .panel-container h3 {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .darkmode .panel-container .panel li.row {
-  border-bottom-color: #586970;
+  border-bottom-color: #1e1e1e;
 }
 .darkmode #cp-main .pm-message {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 .darkmode #cp-main .post.pm {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 @media (max-width: 992px) {
   .darkmode #navigation a, .darkmode .rtl #navigation a {
-    background: #465761;
+    background: #2f2f2f;
   }
 }
 .darkmode .pmlist li.pm_message_reported_colour, .darkmode .pm_message_reported_colour {
-  border-left-color: #DD4C5A;
-  border-right-color: #DD4C5A;
+  border-left-color: #dec107;
+  border-right-color: #dec107;
 }
 .darkmode .pmlist li.pm_marked_colour, .darkmode .pm_marked_colour {
   border-color: tomato;
 }
 .darkmode .pmlist li.pm_replied_colour, .darkmode .pm_replied_colour {
-  border-color: #586970;
+  border-color: #1e1e1e;
 }
 .darkmode .pmlist li.pm_friend_colour, .darkmode .pm_friend_colour {
-  border-color: #11B4A5;
+  border-color: #dec107;
 }
 .darkmode .pmlist li.pm_foe_colour, .darkmode .pm_foe_colour {
-  border-color: #DD4C5A;
+  border-color: #dec107;
 }
 .darkmode #gallery label {
-  background: #3B4A52;
-  border-color: #526269;
+  background: #222222;
+  border-color: #181818;
 }
 .darkmode #gallery label:hover {
-  background: #4b5e68;
+  background: #353535;
 }
 .darkmode #message-box textarea.drag-n-drop {
-  outline-color: rgba(97, 115, 124, 0.5);
+  outline-color: rgba(41, 41, 41, 0.5);
 }
 .darkmode #message-box textarea.drag-n-drop-highlight {
-  outline-color: rgba(17, 180, 165, 0.5);
+  outline-color: rgba(222, 193, 7, 0.5);
 }
 .darkmode .inputbox:-moz-placeholder, .darkmode #eles input#text_shoutbox:-moz-placeholder {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .inputbox::-webkit-input-placeholder, .darkmode #eles input#text_shoutbox::-webkit-input-placeholder {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode #darken {
-  background: #CBCBCB;
+  background: #ececec;
 }
 .darkmode .dropdown-extended ul li {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode .dropdown-extended .header, .darkmode .dropdown-extended .footer {
-  background: #3f4f58;
-  border-color: #526269;
+  background: #272727;
+  border-color: #181818;
 }
 .darkmode .dropdown .pointer-inner {
-  border-color: #3B4A52 transparent;
+  border-color: #222222 transparent;
 }
 .darkmode .dropdown-extended .pointer-inner {
-  border-color: #3B4A52 transparent;
+  border-color: #222222 transparent;
 }
 .darkmode .dropdown .dropdown-contents, .darkmode .dropdown-up .dropdown-contents {
-  background: #3B4A52;
-  color: #A1C0CE;
+  background: #222222;
+  color: #c6c6c6;
 }
 .darkmode dl.icon:before {
-  background: #465761;
-  color: #A1C0CE;
+  background: #2f2f2f;
+  color: #c6c6c6;
 }
 .darkmode dl.icon.forum_unread:before, .darkmode dl.icon.forum_unread_subforum:before, .darkmode dl.icon.forum_unread_locked:before, .darkmode dl.icon.sticky_unread:before, .darkmode dl.icon.sticky_unread_mine:before, .darkmode dl.icon.sticky_unread_locked:before, .darkmode dl.icon.sticky_unread_locked_mine:before, .darkmode dl.icon.topic_unread:before, .darkmode dl.icon.topic_unread_mine:before, .darkmode dl.icon.topic_unread_locked:before, .darkmode dl.icon.topic_unread_locked_mine:before, .darkmode dl.icon.pm_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode dl.icon.topic_read_hot:before, .darkmode dl.icon.topic_read_hot_mine:before, .darkmode dl.icon.topic_unread_hot:before, .darkmode dl.icon.topic_unread_hot_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode dl.icon.topic_unread_hot:before, .darkmode dl.icon.topic_unread_hot_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode dl.icon.announce_read:before, .darkmode dl.icon.announce_read_locked:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode dl.icon.announce_read_locked_mine:before, .darkmode dl.icon.announce_read_mine:before {
-  color: #13cbba;
+  color: #f7d608;
 }
 .darkmode dl.icon.announce_unread:before, .darkmode dl.icon.announce_unread_locked:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode dl.icon.announce_unread_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode dl.icon.global_read:before, .darkmode dl.icon.global_read_mine:before, .darkmode dl.icon.global_read_locked:before, .darkmode dl.icon.global_read_locked_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode dl.icon.global_unread_locked:before, .darkmode dl.icon.global_unread_locked_mine:before, .darkmode dl.icon.global_unread:before, .darkmode dl.icon.global_unread_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode dl.icon.global_read_mine:before {
-  color: #13cbba;
+  color: #f7d608;
 }
 .darkmode dl.icon.global_unread_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.forum_link:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.forum_read:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.forum_read_locked:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.forum_read_subforum:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.forum_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.forum_unread_locked:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.forum_unread_subforum:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.topic_moved:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.topic_read:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.topic_read_mine:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.topic_read_hot:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.topic_read_hot_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.topic_read_locked:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.topic_read_locked_mine:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.topic_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.topic_unread_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.topic_unread_hot:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.topic_unread_hot_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.topic_unread_locked:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.topic_unread_locked_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.sticky_read:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.sticky_read_mine:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.sticky_read_locked:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.sticky_read_locked_mine:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.sticky_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.sticky_unread_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.sticky_unread_locked:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.sticky_unread_locked_mine:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.announce_read:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.announce_read_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.announce_read_locked:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.announce_read_locked_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.announce_unread:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.announce_unread_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.announce_unread_locked:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.announce_unread_locked_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.global_read:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.global_read_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.global_read_locked:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.global_read_locked_mine:before {
-  color: #e1616e;
+  color: #f7d608;
 }
 .darkmode .imageset.global_unread:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.global_unread_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.global_unread_locked:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.global_unread_locked_mine:before {
-  color: #DD4C5A;
+  color: #dec107;
 }
 .darkmode .imageset.subforum_read:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.subforum_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.pm_read:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .imageset.pm_unread:before {
-  color: #11B4A5;
+  color: #dec107;
 }
 .darkmode .imageset.icon_post_target:before {
-  color: rgba(161, 192, 206, 0.5);
+  color: rgba(198, 198, 198, 0.5);
 }
 a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset.icon_post_target:before, a:active .darkmode .imageset.icon_post_target:before {
-  color: #6f9eb4;
+  color: #a0a0a0;
 }
 .darkmode .file-progress-bar, .darkmode #file-total-progress-bar {
-  background: #11B4A5;
+  background: #dec107;
 }
 .darkmode .widget-infotabs .nav > li > a {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode .widget-infotabs .nav > li > a:hover {
-  border-color: #586970 #586970 #526269;
-  background-color: #586970;
+  border-color: #1e1e1e #1e1e1e #181818;
+  background-color: #1e1e1e;
 }
 .darkmode .widget-infotabs .nav > li > a:focus {
-  border-color: #526269 #526269 transparent !important;
+  border-color: #181818 #181818 transparent !important;
 }
 .darkmode .widget-infotabs .nav-tabs {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 .darkmode .widget-infotabs .nav-tabs > li.active > a {
-  color: #A1C0CE;
-  border-color: #526269 #526269 transparent #526269;
+  color: #c6c6c6;
+  border-color: #181818 #181818 transparent #181818;
 }
 .darkmode .widget-infotabs .nav-tabs > li.active > a:hover {
-  border-color: #526269 #526269 transparent !important;
+  border-color: #181818 #181818 transparent !important;
 }
 .darkmode #eles #phpbb_announcement {
-  background-color: #DD4C5A;
-  color: #F1F1F1;
+  background-color: #dec107;
+  color: #444444;
 }
 .darkmode #eles .aboutus .content {
-  border-top-color: #526269;
-  border-bottom-color: #526269;
+  border-top-color: #181818;
+  border-bottom-color: #181818;
 }
 .darkmode #eles #boardrules-categories .mini-panel {
-  border-left-color: #526269;
+  border-left-color: #181818;
 }
 .darkmode #eles #rules .rule-item + li {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #eles #rules .highlight {
-  background-color: #3B4A52;
-  border-color: #526269;
-  border-left-color: #DD4C5A;
+  background-color: #222222;
+  border-color: #181818;
+  border-left-color: #dec107;
 }
 .darkmode #eles #abbc3_buttons select {
-  border-color: #526269;
-  background: #37454c !important;
+  border-color: #181818;
+  background: #1d1d1d !important;
 }
 .darkmode #eles #abbc3_buttons select:hover, .darkmode #eles #abbc3_buttons select:focus {
-  color: #A1C0CE;
-  border-color: #526269;
+  color: #c6c6c6;
+  border-color: #181818;
 }
 .darkmode #eles #abbc3_buttons select:hover {
-  background: #303d43;
+  background: #151515;
 }
 .darkmode #eles #abbc3_buttons .abbc3_button:hover {
-  border-color: #526269;
-  background-color: #37454c;
+  border-color: #181818;
+  background-color: #1d1d1d;
 }
 .darkmode #eles #bbcode_wizard {
-  background: #3B4A52;
-  border-color: #526269;
+  background: #222222;
+  border-color: #181818;
 }
 .darkmode #eles #bbcode_wizard hr {
-  border-top-color: #586970;
+  border-top-color: #1e1e1e;
 }
 .darkmode #eles #bbcode_wizard fieldset.submit-buttons {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #eles .postlove {
-  border-color: #526269;
-  background-color: #3f4f58;
+  border-color: #181818;
+  background-color: #272727;
 }
 .darkmode #eles #topic_preview {
-  border-color: #526269;
+  border-color: #181818;
 }
 .darkmode #eles #topic_preview:before {
-  border-top-color: #526269;
-  border-right-color: #526269;
+  border-top-color: #181818;
+  border-right-color: #181818;
 }
 .darkmode #eles #quick-login-panel {
-  background: #3B4A52;
+  background: #222222;
 }
 .darkmode #eles #mchat-panel {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #eles #mchat-panel #mchat-add {
-  background-color: #11B4A5;
+  background-color: #dec107;
 }
 .darkmode #eles #mchat-panel #mchat-status {
-  border-top-color: #526269;
+  border-top-color: #181818;
 }
 .darkmode #eles #medals-container {
-  border-top-color: #526269;
-  border-bottom-color: #526269;
+  border-top-color: #181818;
+  border-bottom-color: #181818;
 }
 .darkmode #eles #submit_shoutbox {
-  background-color: #11B4A5;
+  background-color: #dec107;
 }
 .darkmode #eles ul.ajaxshoutboxpost li.row {
-  border-bottom-color: #526269;
+  border-bottom-color: #181818;
 }
 @media (max-width: 768px) {
   .darkmode #page-sidebar {
-    border-top-color: #526269;
+    border-top-color: #181818;
   }
   .darkmode #page-sidebar .widget {
-    border-color: #526269;
+    border-color: #181818;
   }
   .darkmode #eles #boardrules-categories .mini-panel {
-    border-bottom-color: #526269;
+    border-bottom-color: #181818;
   }
 }
 .darkmode .ripple {
-  background: #3B4A52 !important;
+  background: #222222 !important;
 }
