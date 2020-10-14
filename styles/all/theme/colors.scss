@@ -1,10 +1,10 @@
-$spc9e503: #11B4A5;
-$sp288e41: #DD4C5A;
-$sp0ceaa4: #A1C0CE;
-$sp7d25d0: #F1F1F1;
-$spc7b7c5: #526269;
-$speed7f3: #3B4A52;
-$sp02df70: #CBCBCB;
+$spc9e503: #dec107; // primary
+$sp288e41: #dec107; // accent
+$sp0ceaa4: #c6c6c6; // text
+$sp7d25d0: #444444; // inverted text
+$spc7b7c5: #181818; // border
+$speed7f3: #222222; // white
+$sp02df70: #ececec; // black
 $primary-c: $spc9e503;
 $primary-c-l: lighten( $primary-c, 5% );
 $primary-c-d: darken( $primary-c, 5% );
