@@ -1157,6 +1157,12 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
   background-color: #ededed;
 }
 
-.darkmode .tribute-container li.highlight {
+/* Tribute container */
+
+.darkmode .tribute-container, .darkmode .tribute-container li {
   background: #020202;
+}
+
+.darkmode .tribute-container li.highlight {
+  background: #1D1D1D;
 }
