@@ -454,9 +454,10 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 .darkmode fieldset.polls dl {
   border-top-color: #1e1e1e;
 }
-/* .darkmode #tabs .tab > a:hover {
-  background: #353535;
+.darkmode #tabs .tab > a:hover {
+  background: #bababa;
 }
+/*
 .darkmode #tabs .tab > a {
   background: #3d3d3d;
 }
@@ -481,7 +482,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   border-left-color: #353535;
 }
 .darkmode #navigation #active-subsection a {
-  background: white;
+  background: #011749;
   color: #444444;
 }
 .darkmode #navigation #active-subsection a:after {
@@ -1154,4 +1155,8 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 
 .darkmode #acp input, .darkmode #acp select {
   background-color: #ededed;
+}
+
+.darkmode #acp #tabs .tab > a:hover {
+  background: #f1f1ee;
 }
