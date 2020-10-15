@@ -1156,7 +1156,3 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 .darkmode #acp input, .darkmode #acp select {
   background-color: #ededed;
 }
-
-.darkmode #acp #tabs .tab > a:hover {
-  background: #f1f1ee;
-}
