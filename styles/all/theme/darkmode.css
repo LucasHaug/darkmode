@@ -256,7 +256,6 @@ body.darkmode {
 }
 .darkmode table.table1 tbody tr:hover, .darkmode table.table1 tbody tr.hover {
   background: #272727;
-  color: #ececec;
 }
 .darkmode table.table1 tbody th {
   color: #c6c6c6;
@@ -1133,7 +1132,17 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
   border: 0px;
 }
 
+/* Search box */
+
+.darkmode fieldset {
+  background-color: #2f2f2f;
+}
+
 /* ACP */
+
+.darkmode #acp fieldset {
+  background-color: #ffffff;
+}
 
 .darkmode #page-header h1 {
   color: #ffffff;
