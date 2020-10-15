@@ -67,7 +67,7 @@ body.darkmode {
   border-bottom-color: #020202;
 }
 .darkmode .tabs-mini .nav > li:not(.active) > a:hover {
-  background: #272727 !important;
+  background: #292929 !important;
 }
 .darkmode #navbar-main.topbar .inner a.header-avatar:hover > span, .darkmode #navbar-main.topbar .inner a.header-avatar:focus > span {
   color: #c6c6c6 !important;
@@ -128,7 +128,7 @@ body.darkmode {
   border-top-color: #181818;
 }
 .darkmode #wrap {
-  background: #272727;
+  background: #292929;
 }
 .darkmode #page-header {
   background: #dec107;
@@ -195,12 +195,12 @@ body.darkmode {
   color: inherit !important;
 }
 .darkmode .navbar.top .inner {
-  background: #272727;
+  background: #292929;
   border-color: #181818;
   color: #c6c6c6;
 }
 .darkmode .navbar.bottom .inner.container {
-  background: #272727;
+  background: #292929;
   border-color: #181818;
   color: #c6c6c6;
 }
@@ -339,7 +339,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   border-top-color: #1e1e1e;
 }
 .darkmode li.row:hover {
-  background: #272727 !important;
+  background: #292929 !important;
 }
 .darkmode li.row strong.subforums-title {
   color: #ececec;
@@ -366,7 +366,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 }
 .darkmode #topicreview {
   border-color: #181818;
-  background: #272727;
+  background: #292929;
 }
 .darkmode .posthilit {
   background: #353535;
@@ -580,7 +580,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   background: #1d1d1d;
 }
 .darkmode #qr_postform {
-  background: #272727;
+  background: #292929;
   border-bottom-color: #181818;
 }
 .darkmode #qr_postform textarea.inputbox {
@@ -702,7 +702,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   color: #ececec;
 }
 .darkmode .pm-message .attachbox {
-  background: #272727;
+  background: #292929;
 }
 .darkmode .attachbox p.stats {
   color: #a0a0a0;
@@ -790,7 +790,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   border-top-color: #181818;
 }
 .darkmode .dropdown-extended .header, .darkmode .dropdown-extended .footer {
-  background: #272727;
+  background: #292929;
   border-color: #181818;
 }
 .darkmode .dropdown .pointer-inner {
@@ -1035,7 +1035,7 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 }
 .darkmode #eles .postlove {
   border-color: #181818;
-  background-color: #272727;
+  background-color: #292929;
 }
 .darkmode #eles #topic_preview {
   border-color: #181818;
