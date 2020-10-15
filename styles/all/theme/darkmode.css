@@ -19,9 +19,9 @@ body.darkmode {
 .darkmode #topicreview .post p.author {
   border-color: #050505;
 }
-.darkmode #tabs .activetab > a, .darkmode #tabs .activetab > a:hover, .darkmode #minitabs .activetab > a, .darkmode #minitabs .activetab > a:hover, .darkmode #navigation #active-subsection a {
+/* .darkmode #tabs .activetab > a, .darkmode #tabs .activetab > a:hover, .darkmode #minitabs .activetab > a, .darkmode #minitabs .activetab > a:hover, .darkmode #navigation #active-subsection a {
   color: #c6c6c6 !important;
-}
+} */
 .darkmode .dropdown-extended .header, .darkmode .dropdown-extended .footer {
   background: #353535 !important;
   border-color: #1e1e1e !important;
@@ -455,7 +455,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 .darkmode fieldset.polls dl {
   border-top-color: #1e1e1e;
 }
-.darkmode #tabs .tab > a:hover {
+/* .darkmode #tabs .tab > a:hover {
   background: #353535;
 }
 .darkmode #tabs .tab > a {
@@ -464,7 +464,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 .darkmode #tabs .activetab > a, .darkmode #tabs .activetab > a:hover {
   background: #353535;
   color: #c6c6c6;
-}
+} */
 .darkmode #minitabs .tab > a:hover {
   background: #353535;
 }
@@ -1135,31 +1135,14 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 
 /* ACP */
 
-.darkmode #acp #content {
-  background-color: #353535;
-}
-
-.darkmode fieldset {
-  background-color: #2f2f2f;
-}
-
-.darkmode td:not(.colour-palette) {
-  background-color: #2f2f2f !important;
-}
-
-.darkmode td:hover {
-  background-color: #464646 !important;
-}
-
-.darkmode table {
-  background-color: #222222;
-}
-
 .darkmode #page-header h1 {
   color: #ffffff;
 }
 
-.darkmode th {
-  background: #0a53b2 !important;
-  color: white;
+.darkmode #acp, .darkmode #acp a {
+  color: #4A5A73;
+}
+
+.darkmode #acp input, .darkmode #acp select {
+  background-color: #ededed;
 }

@@ -9,4 +9,4 @@ The colors for darkmode were generate using the `colors.scss` and this [site](ht
 This extension must be cloned inside the `ext/` and inside of a directory that must be called `aurelienazerty` (the extension original author), so the path to the extension will be `$FORUM_HOME/ext/aurelienazerty/darkmode`.
 
 Known problems:
-- Some colors in ACP are wrong.
+- ACP dark mode is a light mode with different colors.
