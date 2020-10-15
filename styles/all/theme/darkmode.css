@@ -398,8 +398,8 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   color: #a0a0a0;
 }
 .darkmode dl.thumbnail img {
-  border-color: #292929;
-  background: #222222;
+  background-color: #292929;
+  border: 1px solid #161616;
 }
 .darkmode .attachbox dl.thumbnail dd {
   color: #a0a0a0;
@@ -440,6 +440,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 }
 .darkmode .post-buttons a.icon-button {
   background: transparent;
+  color: #c6c6c6
 }
 .darkmode .post-buttons a.icon-button:hover, .darkmode .post-buttons a.icon-button:focus {
   background: #2f2f2f;
@@ -1107,4 +1108,11 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 
 .darkmode .reaction_inner {
   background-color: #292929 !important;
+}
+
+/* Thumbnail */
+
+.darkmode dl.thumbnail {
+  background-color: #292929;
+  border: 1px solid #161616;
 }
