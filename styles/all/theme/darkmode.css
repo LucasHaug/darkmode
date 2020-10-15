@@ -379,7 +379,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 .darkmode .signature {
   border-top-color: #c6c6c6;
 }
-.postbody .darkmode .signature {
+.darkmode .postbody .signature {
   color: #a0a0a0;
 }
 .darkmode .codebox {
@@ -1101,4 +1101,10 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 .darkmode .post th {
   background-color: #0a53b2;
   color: white;
+}
+
+/* Reactions panel */
+
+.darkmode .reaction_inner {
+  background-color: #292929 !important;
 }
