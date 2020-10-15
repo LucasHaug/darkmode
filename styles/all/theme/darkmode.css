@@ -39,7 +39,7 @@ body.darkmode {
   border-color: #2f2f2f transparent !important;
 }
 .darkmode .tooltip-inner {
-  color: #444444;
+  color: #c6c6c6;
   background: #020202;
 }
 .darkmode .tooltip.top .tooltip-arrow {
