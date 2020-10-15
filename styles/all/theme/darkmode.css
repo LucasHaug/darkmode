@@ -1,5 +1,5 @@
 body.darkmode {
-  filter: invert(0);
+  color: #c6c6c6;
 }
 
 .darkmode #page-header a:hover, .darkmode #page-header a:focus {
@@ -70,7 +70,7 @@ body.darkmode {
   background: #272727 !important;
 }
 .darkmode #navbar-main.topbar .inner a.header-avatar:hover > span, .darkmode #navbar-main.topbar .inner a.header-avatar:focus > span {
-  color: #444444 !important;
+  color: #c6c6c6 !important;
 }
 .darkmode #back2topMain {
   color: #444444 !important;
@@ -133,7 +133,7 @@ body.darkmode {
 .darkmode #page-header {
   background: #dec107;
   background: linear-gradient(110deg, #dec107 0%, #dec107 100%);
-  color: #444444;
+  color: #857575;
 }
 .darkmode #page-header a {
   color: inherit;
@@ -173,7 +173,7 @@ body.darkmode {
   background: rgba(173, 150, 5, 0.975);
 }
 .darkmode .topbar .inner {
-  color: #444444;
+  color: #c6c6c6;
 }
 .darkmode .topbar .inner a.header-avatar:hover > span, .darkmode .topbar .inner a.header-avatar:focus > span {
   color: #222222 !important;
@@ -374,9 +374,10 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 }
 .darkmode p.author {
   border-bottom-color: #1e1e1e;
+  color: rgba(198, 198, 198, 0.8);
 }
 .darkmode .signature {
-  border-top-color: #1e1e1e;
+  border-top-color: #c6c6c6;
 }
 .postbody .darkmode .signature {
   color: #a0a0a0;
@@ -417,10 +418,8 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   color: white;
 }
 .darkmode .profile-meta {
-  color: transparent;
-}
-.post:hover .darkmode .profile-meta {
-  color: rgba(198, 198, 198, 0.5);
+  color: rgba(198, 198, 198, 0.8);
+  transform: scaleY(1);
 }
 .darkmode .postbody .content::-webkit-scrollbar, .darkmode #topicreview::-webkit-scrollbar, .darkmode #post_details::-webkit-scrollbar, .darkmode .codebox code::-webkit-scrollbar, .darkmode .attachbox dd::-webkit-scrollbar, .darkmode .attach-image::-webkit-scrollbar, .darkmode .dropdown ul::-webkit-scrollbar, .darkmode #mchat-messages::-webkit-scrollbar, .darkmode #shoutbox_scroll::-webkit-scrollbar {
   background: transparent;
@@ -808,10 +807,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   background: #2f2f2f;
   color: #c6c6c6;
 }
-.darkmode dl.icon.forum_unread:before, .darkmode dl.icon.forum_unread_subforum:before, .darkmode dl.icon.forum_unread_locked:before, .darkmode dl.icon.sticky_unread:before, .darkmode dl.icon.sticky_unread_mine:before, .darkmode dl.icon.sticky_unread_locked:before, .darkmode dl.icon.sticky_unread_locked_mine:before, .darkmode dl.icon.topic_unread:before, .darkmode dl.icon.topic_unread_mine:before, .darkmode dl.icon.topic_unread_locked:before, .darkmode dl.icon.topic_unread_locked_mine:before, .darkmode dl.icon.pm_unread:before {
-  color: #dec107;
-}
-.darkmode dl.icon.topic_read_hot:before, .darkmode dl.icon.topic_read_hot_mine:before, .darkmode dl.icon.topic_unread_hot:before, .darkmode dl.icon.topic_unread_hot_mine:before {
+.darkmode dl.icon.topic_read_hot:before, .darkmode dl.icon.topic_read_hot_mine:before {
   color: #f7d608;
 }
 .darkmode dl.icon.topic_unread_hot:before, .darkmode dl.icon.topic_unread_hot_mine:before {
@@ -819,27 +815,6 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
 }
 .darkmode dl.icon.announce_read:before, .darkmode dl.icon.announce_read_locked:before {
   color: #f7d608;
-}
-.darkmode dl.icon.announce_read_locked_mine:before, .darkmode dl.icon.announce_read_mine:before {
-  color: #f7d608;
-}
-.darkmode dl.icon.announce_unread:before, .darkmode dl.icon.announce_unread_locked:before {
-  color: #dec107;
-}
-.darkmode dl.icon.announce_unread_mine:before {
-  color: #dec107;
-}
-.darkmode dl.icon.global_read:before, .darkmode dl.icon.global_read_mine:before, .darkmode dl.icon.global_read_locked:before, .darkmode dl.icon.global_read_locked_mine:before {
-  color: #f7d608;
-}
-.darkmode dl.icon.global_unread_locked:before, .darkmode dl.icon.global_unread_locked_mine:before, .darkmode dl.icon.global_unread:before, .darkmode dl.icon.global_unread_mine:before {
-  color: #dec107;
-}
-.darkmode dl.icon.global_read_mine:before {
-  color: #f7d608;
-}
-.darkmode dl.icon.global_unread_mine:before {
-  color: #dec107;
 }
 .darkmode .imageset.forum_link:before {
   color: #a0a0a0;
@@ -1104,4 +1079,26 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 }
 .darkmode .ripple {
   background: #222222 !important;
+}
+
+/* Table */
+.darkmode .post table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.darkmode .post td, .darkmode .post th {
+  border: 1px solid #1a73e8;
+  padding: 8px;
+  text-align: center;
+}
+
+.darkmode .post tr:nth-child(even){background-color: #161616;}
+
+.darkmode .post tr:hover {background-color: #121212;}
+
+.darkmode .post th {
+  background-color: #0a53b2;
+  color: white;
 }
