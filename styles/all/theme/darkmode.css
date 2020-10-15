@@ -386,10 +386,6 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   border-color: #181818;
   background: #2f2f2f;
 }
-.darkmode .codebox code {
-  color: #a0a0a0;
-  border-top-color: #181818;
-}
 .darkmode .attachbox {
   border-color: #181818;
   background: #2f2f2f;
@@ -1115,4 +1111,22 @@ a:hover .darkmode .imageset.icon_post_target:before, a:focus .darkmode .imageset
 .darkmode dl.thumbnail {
   background-color: #292929;
   border: 1px solid #161616;
+}
+
+/* Code */
+
+.darkmode code {
+  background-color: #171717 !important;
+  color: #c6c6c6 !important;
+  padding: .1em !important;
+  margin: 0px;
+  border: 1px solid #ccc;
+}
+
+.darkmode .codebox code {
+  color: #c6c6c6;
+  background-color: #222222;
+  filter: hue-rotate(42deg) saturate(4);
+  margin: 0px;
+  border: 0px;
 }
