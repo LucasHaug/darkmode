@@ -469,8 +469,8 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   background: #353535;
 }
 .darkmode #minitabs .activetab > a, .darkmode #minitabs .activetab > a:hover {
-  background: white;
-  color: #444444;
+  background: #8c8c8c;
+  color: white;
 }
 .darkmode #navigation a {
   color: #c6c6c6;
