@@ -412,7 +412,7 @@ li.row:hover .darkmode a.feed-icon-forum:hover {
   background: #f7d608;
   color: white;
 }
-.darkmode .profile-meta {
+.darkmode .profile-meta, .darkmode .post:hover .profile-meta {
   color: rgba(198, 198, 198, 0.8);
   transform: scaleY(1);
 }
