@@ -256,6 +256,7 @@ body.darkmode {
 }
 .darkmode table.table1 tbody tr:hover, .darkmode table.table1 tbody tr.hover {
   background: #272727;
+  color: #ffffff
 }
 .darkmode table.table1 tbody th {
   color: #c6c6c6;
