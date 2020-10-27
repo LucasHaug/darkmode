@@ -1,8 +1,8 @@
 {
-    "name": "aurelienazerty/darkmode",
+    "name": "thunderatz/darkmode",
     "type": "phpbb-extension",
-    "description": "Enable switching between Dark and Light mode",
-    "homepage": "https://www.team-azerty.com",
+    "description": "https://github.com/Aurelienazerty/darkMode frok to enable forum dark/light mode",
+    "homepage": "https://github.com/ThundeRatz/darkmode",
     "version": "1.0.1",
     "time": "2020-09-01",
     "keywords": [
@@ -17,6 +17,11 @@
             "name": "aurelienazerty",
             "homepage": "https://www.team-azerty.com",
             "role": "Developer"
+        },
+        {
+            "name": "ThundeRatz",
+            "homepage": "https://thunderatz.org",
+            "role": "Developer"
         }
     ],
     "require": {
@@ -28,12 +33,6 @@
         "display-name": "Dark Mode",
         "soft-require": {
             "phpbb/phpbb": ">=3.1.0"
-        },
-        "version-check": {
-            "host": "www.phpbb.com",
-            "directory": "/customise/db/extension/darkmode",
-            "filename": "version_check",
-            "ssl": true
         }
     }
 }
