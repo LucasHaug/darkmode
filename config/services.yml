@@ -1,6 +1,6 @@
 services:
-    aurelienazerty.darkmode.listener:
-        class: aurelienazerty\darkmode\event\listener
+    thunderatz.darkmode.listener:
+        class: thunderatz\darkmode\event\listener
         arguments:
             - '@template'
             - '@user'
