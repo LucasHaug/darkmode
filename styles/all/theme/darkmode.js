@@ -10,7 +10,7 @@ const updateColors = () => {
   let from = ($("body").hasClass("darkmode") && 1) || 0;
   let to = (from == 0 && 1) || 0;
 
-  $(".username-coloured, li.recent-topic-item .metadata > a >  span, .online-list .legend a, .group-title").each(function (i) {
+  $(".username-coloured, li.recent-topic-item .metadata > a >  span, .online-list .legend a, .group-title, .info a").each(function (i) {
     colorMap.forEach((e) => {
       if (this.style.color == e[from]) {
         this.style.color = e[to];
